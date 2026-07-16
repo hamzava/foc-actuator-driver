@@ -1,0 +1,29 @@
+Designator,Quantity,Comment,Footprint,JLCPCB Part #
+"C1,C4",2,100nF,Capacitor_SMD:C_0603_1608Metric,C45000
+C2,1,2.2uF,Capacitor_SMD:C_0603_1608Metric,C43922
+C3,1,4.7uF,Capacitor_SMD:C_0603_1608Metric,C92758
+C6,1,100nF 16V,Capacitor_SMD:C_0603_1608Metric,C66501
+C7,1,470nF,Capacitor_SMD:C_0603_1608Metric,C105526
+C8,1,300uF,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm,C5438835
+"C9,C10,C11",3,470nF 16V,Capacitor_SMD:C_0603_1608Metric,C105526
+"C12,C13,C14",3,470pF,Capacitor_SMD:C_0603_1608Metric,C1620
+C15,1,220nF,Capacitor_SMD:C_0603_1608Metric,C160828
+C16,1,22nF 100V,Capacitor_SMD:C_0603_1608Metric,C313083
+C17,1,22uF,Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A,C7182
+C18,1,10uF,Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A,C7171
+"D1,D2,D3,D4,D5,D6,D7,D8,D9",9,3A,Diode_SMD:D_SMA,C16015
+D10,1,SS34,Diode_SMD:D_SMA,C34897
+F1,1,PTC,Fuse:Fuse_1206_3216Metric,C49073026
+J1,1,SPI Interface,Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical,
+J2,1,Control Signals,Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical,
+J3,1,Current Sensing,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,
+J4,1,Power Supply,TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-3-2-5.08_1x02_P5.08mm_Horizontal,
+J5,1,Phase Output,TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-3-3-5.08_1x03_P5.08mm_Horizontal,
+"Q1,Q2,Q3,Q4,Q5,Q6",6,FQD13N06LTM,FQD13N06LTM:FQD13N06LTM,C236914
+"R1,R2,R5,R6,R9,R10,R13,R14,R15,R16",10,1R,Resistor_SMD:R_0603_1608Metric,C2078450
+"R3,R7,R11",3,0R01,Resistor_SMD:R_0603_1608Metric,C20160265
+"R4,R8,R12",3,10R,Resistor_SMD:R_0603_1608Metric,C253327
+"R17,R18,R19,R20,R21,R22",6,47k,Resistor_SMD:R_0603_1608Metric,C307918
+R23,1,10k,Resistor_SMD:R_0603_1608Metric,C253330
+U1,1,TMC6200-TA,TMC6200_Footprint:eTQFP48_9x9_TRI,C915798
+U2,1,AMS1117-3.3,Package_TO_SOT_SMD:SOT-223-3_TabPin2,C347222
